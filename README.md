@@ -1,0 +1,1 @@
+This is a temporary fork of beam-migrate that supports ghc-8.6.*. The reason this isn't a normal fork of the beam repo (https://github.com/tathougies/beam) is because that repo doesn't seem to contain a tag or commit for version 0.3.2.2 despite the fact that this version is on hackage.
